@@ -20,3 +20,4 @@ Collection of vulnerable APIs/apps to test following JWT attacks:
 4. Run using `node app.js` command.
 new edit
 new edit
+new edit
