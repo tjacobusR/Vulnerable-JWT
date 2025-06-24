@@ -19,3 +19,4 @@ Collection of vulnerable APIs/apps to test following JWT attacks:
 3. Use `npm install` to install dependencies listed in *package.json*,
 4. Run using `node app.js` command.
 new edit
+new edit
