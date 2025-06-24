@@ -18,3 +18,4 @@ Collection of vulnerable APIs/apps to test following JWT attacks:
 2. Browse to the specific folder (e.g., *01 - Lack of signature verification*),
 3. Use `npm install` to install dependencies listed in *package.json*,
 4. Run using `node app.js` command.
+new edit
