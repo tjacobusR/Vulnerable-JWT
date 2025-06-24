@@ -21,3 +21,4 @@ Collection of vulnerable APIs/apps to test following JWT attacks:
 new edit
 new edit
 new edit
+new edit
